@@ -130,7 +130,7 @@ plt.figure(figsize=(10, 6))
 plt.scatter(port_volatility, port_returns, c=port_sharpe_ratio, cmap='viridis', marker='o', alpha=0.5, label='All Portfolios')
 plt.colorbar(label='Sharpe Ratio')
 
-plt.scatter(max_sharpe_volatility, max_sharpe_return, marker='*', color='r', s=500, label='Max Sharpe Ratio Portfolio')
+plt.scatter(max_sharpe_volatility, max_sharpe_return, marker='*', color='r', s=200, label='Max Sharpe Ratio Portfolio')
 
 plt.title('Efficient Frontier with Best Portfolio Highlighted')
 plt.xlabel('Volatility (Risk)')

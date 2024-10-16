@@ -1,7 +1,7 @@
 
 # Detailed Explanation of Modern Portfolio Theory (MPT) and the Code Implementation
 
-The code is used on NIFTY MIDCAP SELECT stocks in this code using 2021 to 2023 data as train set.
+The code is used on NIFTY MIDCAP SELECT stocks  using 2021 to 2023 data as train set.
 
 ## Overview of Modern Portfolio Theory (MPT)
 Modern Portfolio Theory (MPT) is a financial theory developed by Harry Markowitz in the 1950s,
